@@ -16,6 +16,9 @@ int main(){
     else if(n<70){
         printf("your marks is %d and your grade D",n);
     }
+    else if(n>100 || n<0 ){
+        printf("Enter a valid number, %d is not true",n);
+    }
     else{
         printf("your marks is %d and you're failed ",n);
     }
