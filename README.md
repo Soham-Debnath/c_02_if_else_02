@@ -1,1 +1,1 @@
-# If-else in C (part-2).
+# If-else in C language(part-2).
